@@ -1,0 +1,13 @@
+#wrapper {
+    width: 400px;
+    Background-color: #dddddd;
+
+    border: 1px solid #000000;
+    
+    margin-left: 20px;
+    
+    padding: 10px;
+}
+h {
+    text-align: center;
+}

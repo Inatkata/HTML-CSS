@@ -1,0 +1,27 @@
+    #wrapper{
+        width: 700px;
+        border: 1px solid;
+        border-color: #b2ad7d;
+        padding: 5px 15px;
+        margin: 15px 10px;
+        background-color: #e4e978;
+    }
+  #class1{
+    background-color: #f2f4c0;
+    border: 1px solid;
+    margin: 15px 10px;
+  }
+  #class2{
+    background-color: #f2f4c0;
+    border: 1px solid;
+    margin: 15px 10px;
+    font-style: italic;
+    color: #4c7658;
+  }
+  footer{
+    background-color: #f2f4c0;
+    border: 1px solid;
+    margin: 15px 10px;
+    font-style: italic;
+    color: #4c7658;
+  }

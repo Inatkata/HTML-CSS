@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    padding: 0px;
+   
+}
+main{
+     background-color: #CCCCCC;
+}
+nav{
+    background-color: #444;
+    text-align: center;
+}
+    
+    ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+li {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 40px;
+    height: 40px;
+    padding: 20px;
+    display: inline-block;
+
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer{
+    padding: 10px;
+    background-color: #444;
+    text-align: center;
+}

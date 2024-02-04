@@ -1,0 +1,16 @@
+main{
+    background-color: #f9f7cf;
+    padding-top: 5px;
+    padding: 5px;
+    width: 480px;
+    header{
+    margin: 15px;
+    padding: 5px 15px;       
+    background-color:  #f2dcbb;
+}
+    footer{
+        margin: 15px;
+        padding: 5px 15px;  
+        background-color:  #f2dcbb; 
+    }
+}
