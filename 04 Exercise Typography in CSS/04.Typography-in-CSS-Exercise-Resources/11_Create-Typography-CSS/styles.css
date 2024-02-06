@@ -1,0 +1,12 @@
+body{
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+header{
+    font-family: Georgia, serif;
+}
+table{
+    border-left: rgb(221,221,221);
+    font-style: italic;
+}
