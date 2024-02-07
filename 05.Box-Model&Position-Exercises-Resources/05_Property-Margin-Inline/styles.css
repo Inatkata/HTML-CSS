@@ -1,0 +1,14 @@
+body {
+  padding: 3px;
+  border: 1px solid black;
+ }
+ div {
+   border: 1px solid black;
+ }
+ 
+ p {
+   font-weight: bold;
+   background-color: coral; 
+   margin-inline: 30%;
+   text-align: center;
+ }

@@ -1,0 +1,12 @@
+  body {
+  border: 1px solid black;
+  
+}
+p {
+  font-weight: bold;
+  background-color: coral;
+  min-width: 50%;
+  font-size: xx-large;
+  margin: 20px 40px 20px 20px;
+
+}
