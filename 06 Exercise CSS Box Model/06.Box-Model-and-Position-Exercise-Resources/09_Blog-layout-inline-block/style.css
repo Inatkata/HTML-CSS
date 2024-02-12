@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(238, 238, 238);
+    color: rgb(51, 51, 51);
+    margin: 0;
+    padding: 0;
+}
+
+article,
+aside {
+    display: inline-block;
+}
+
+article {
+    width: 65%;
+    margin: 1em;
+    padding: 1em;
+}
+
+aside {
+    width: 25%;
+    position: absolute;
+    padding-top: 1em;
+    margin-top: 1em;
+}
+
+img {
+    width: 60%;
+}
